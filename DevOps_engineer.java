@@ -1,4 +1,3 @@
-
 class DevOps_engineer extends Employee {
     float bonus;
     float total_salary;
