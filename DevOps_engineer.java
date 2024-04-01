@@ -21,7 +21,7 @@ class DevOps_engineer extends Employee {
     }
 
     public static void main(String[] args) {
-        DevOps_engineer de = new DevOps_engineer("Priyanka", 10, 50000);
+        DevOps_engineer de = new DevOps_engineer("abc", 52, 50000);
         de.compute_salary(10);
         de.display_details();
     }
